@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\101018\\source\\repos\\tourPackage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserDb/True/SqlTable/dbo.TourUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserDb/True/SqlTable/dbo.Packages.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|c:\\users\\101018\\source\\repos\\tourpackage\\tourpackage\\migrations\\20241214103858_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|solutionrelative:tourpackage\\migrations\\20241214103858_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|c:\\users\\101018\\source\\repos\\tourpackage\\tourpackage\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|solutionrelative:tourpackage\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|c:\\users\\101018\\source\\repos\\tourpackage\\tourpackage\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|solutionrelative:tourpackage\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|c:\\users\\101018\\source\\repos\\tourpackage\\tourpackage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|solutionrelative:tourpackage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|c:\\users\\101018\\source\\repos\\tourpackage\\tourpackage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|solutionrelative:tourpackage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|c:\\users\\101018\\source\\repos\\tourpackage\\tourpackage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08EF913F-03EC-4C64-BD0A-5032402C2B44}|tourPackage\\tourPackage.csproj|solutionrelative:tourpackage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Packages [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserDb/True/SqlTable/dbo.Packages.sql",
+              "ToolTip": "dbo.Packages [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T07:09:56.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.TourUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/UserDb/True/SqlTable/dbo.TourUsers.sql",
+              "ToolTip": "dbo.TourUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-16T06:25:33.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241214103858_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Migrations\\20241214103858_InitialCreate.cs",
+              "RelativeDocumentMoniker": "tourPackage\\Migrations\\20241214103858_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Migrations\\20241214103858_InitialCreate.cs",
+              "RelativeToolTip": "tourPackage\\Migrations\\20241214103858_InitialCreate.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:38:59.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Models.cs",
+              "RelativeDocumentMoniker": "tourPackage\\Models.cs",
+              "ToolTip": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Models.cs",
+              "RelativeToolTip": "tourPackage\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:29:38.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\appsettings.json",
+              "RelativeDocumentMoniker": "tourPackage\\appsettings.json",
+              "ToolTip": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\appsettings.json",
+              "RelativeToolTip": "tourPackage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T10:23:54.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Program.cs",
+              "RelativeDocumentMoniker": "tourPackage\\Program.cs",
+              "ToolTip": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Program.cs",
+              "RelativeToolTip": "tourPackage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:23:52.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "tourPackage\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\ApplicationDbContext.cs",
+              "RelativeToolTip": "tourPackage\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:22:13.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "tourPackage\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\101018\\source\\repos\\tourPackage\\tourPackage\\Controllers\\UserController.cs",
+              "RelativeToolTip": "tourPackage\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:11:16.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

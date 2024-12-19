@@ -1,0 +1,25 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .card {
+    background-color: #f8f9fa;
+    border: 1px solid #ca2424;
+    border-radius: 4px;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #cd1111;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  

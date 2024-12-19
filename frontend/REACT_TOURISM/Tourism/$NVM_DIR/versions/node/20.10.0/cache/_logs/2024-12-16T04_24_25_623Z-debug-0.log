@@ -1,0 +1,58 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.2.3
+2 info using node@v20.10.0
+3 timing npm:load:whichnode Completed in 7ms
+4 timing config:load:defaults Completed in 8ms
+5 timing config:load:file:C:\Program Files\nodejs\node_modules\npm\npmrc Completed in 14ms
+6 timing config:load:builtin Completed in 15ms
+7 timing config:load:cli Completed in 7ms
+8 timing config:load:env Completed in 2ms
+9 timing config:load:project Completed in 6ms
+10 timing config:load:file:C:\Users\101018\.npmrc Completed in 3ms
+11 timing config:load:user Completed in 3ms
+12 timing config:load:file:C:\Users\101018\Desktop\Tourism\$NVM_DIR\versions\node\20.10.0\lib\etc\npmrc Completed in 1ms
+13 timing config:load:global Completed in 2ms
+14 timing config:load:setEnvs Completed in 3ms
+15 timing config:load Completed in 48ms
+16 timing npm:load:configload Completed in 48ms
+17 timing config:load:flatten Completed in 9ms
+18 timing npm:load:mkdirpcache Completed in 2ms
+19 timing npm:load:mkdirplogs Completed in 2ms
+20 verbose title npm exec create-next-app@latest
+21 verbose argv "exec" "--" "create-next-app@latest"
+22 timing npm:load:setTitle Completed in 3ms
+23 timing npm:load:display Completed in 3ms
+24 verbose logfile logs-max:10 dir:C:\Users\101018\Desktop\Tourism\$NVM_DIR\versions\node\20.10.0\cache\_logs\2024-12-16T04_24_25_623Z-
+25 verbose logfile C:\Users\101018\Desktop\Tourism\$NVM_DIR\versions\node\20.10.0\cache\_logs\2024-12-16T04_24_25_623Z-debug-0.log
+26 timing npm:load:logFile Completed in 52ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 221ms
+30 silly logfile done cleaning log files
+31 timing arborist:ctor Completed in 2ms
+32 timing arborist:ctor Completed in 0ms
+33 http fetch GET 200 https://registry.npmjs.org/npm 988ms (cache miss)
+34 http fetch GET 200 https://registry.npmjs.org/create-next-app 647ms (cache miss)
+35 timing arborist:ctor Completed in 0ms
+36 timing command:exec Completed in 1302ms
+37 notice
+37 notice New [33mminor[39m version of npm available! [31m10.2.3[39m -> [32m10.9.2[39m
+37 notice Changelog: [36mhttps://github.com/npm/cli/releases/tag/v10.9.2[39m
+37 notice Run [32mnpm install -g npm@10.9.2[39m to update!
+37 notice
+38 verbose stack Error: ENOENT: no such file or directory, lstat 'C:\Users\101018\Desktop\Tourism\$NVM_DIR\versions\node\20.10.0\lib'
+39 verbose cwd C:\Users\101018\Desktop\Tourism
+40 verbose Windows_NT 10.0.19045
+41 verbose node v20.10.0
+42 verbose npm  v10.2.3
+43 error code ENOENT
+44 error syscall lstat
+45 error path C:\Users\101018\Desktop\Tourism\$NVM_DIR\versions\node\20.10.0\lib
+46 error errno -4058
+47 error enoent ENOENT: no such file or directory, lstat 'C:\Users\101018\Desktop\Tourism\$NVM_DIR\versions\node\20.10.0\lib'
+48 error enoent This is related to npm not being able to find a file.
+48 error enoent
+49 verbose exit -4058
+50 timing npm Completed in 3617ms
+51 verbose code -4058
+52 error A complete log of this run can be found in: C:\Users\101018\Desktop\Tourism\$NVM_DIR\versions\node\20.10.0\cache\_logs\2024-12-16T04_24_25_623Z-debug-0.log
